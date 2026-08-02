@@ -1,4 +1,6 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Embedded%20Systems%20Engineer%20🚀&width=800&height=180)](https://github.com/Akshay090/svg-banners)
+<p align="center">
+  <img src="./assets/CoverPage.png" alt="Embedded Firmware Developer Banner" width="100%">
+</p>
 <h1 align="center">Hello || नमस्ते  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
