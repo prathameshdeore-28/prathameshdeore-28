@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./assets/CoverPage.png" alt="Embedded Firmware Developer Banner" width="100%">
 </p>
-<h1 align="center">Hello || नमस्ते  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" /></h1>
@@ -15,13 +15,10 @@ Enthusiastic Embedded Firmware Developer with a strong foundation in low-level p
 
 ## 🌐 Socials:
 
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](prathmeshdeore28@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/https://www.linkedin.com/in/prathamesh-deore-b92581231/) 
 
 # 💻 Tech Stack:
-
-# 💻 Tech Stack
 
 | **Category** | **Technologies** |
 |--------------|------------------|
@@ -35,8 +32,6 @@ Enthusiastic Embedded Firmware Developer with a strong foundation in low-level p
 | 📚 **Currently Learning** | Linux System Programming • Embedded Linux • Data Structures & Algorithms |
 
 # 📊 GitHub Stats:
-
-# 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
