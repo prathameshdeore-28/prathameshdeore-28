@@ -16,7 +16,9 @@ Enthusiastic Embedded Firmware Developer with a strong foundation in low-level p
 ## 🌐 Socials:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](prathmeshdeore28@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/https://www.linkedin.com/in/prathamesh-deore-b92581231/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathamesh-deore-b92581231/)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-white?style=flat&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/Prathamesh_Deore/)
 
 # 💻 Tech Stack:
 
